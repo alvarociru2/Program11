@@ -1,0 +1,185 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml,https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Vamos.png" ,M+ Vamos (1080)
+http://127.0.0.1:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Vamos.png" ,M+ Vamos (720)
+http://127.0.0.1:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+#EXTINF:-1 group-title="Movistar" tvg-id="Movistar Plus+ HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Movistar%20Plus%2B.png" ,Movistar Plus+
+http://127.0.0.1:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1 group-title="Movistar" tvg-id="Movistar Plus+ 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Movistar%20Plus%2B%202.png" ,Movistar Plus+ 2
+http://127.0.0.1:6878/ace/getstream?id=1e6d2624fdb8e0182fb6bb8bada094915ea4175d
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV.png" ,M+ LALIGA TV (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV.png" ,M+ LALIGA TV (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV.png" ,M+ LALIGA TV (720)
+http://127.0.0.1:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV%202.png" ,M+ LALIGA TV 2 (1080)
+http://127.0.0.1:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV%202.png" ,M+ LALIGA TV 2 (720)
+http://127.0.0.1:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV%203.png" ,M+ LALIGA TV 3
+http://127.0.0.1:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV%204.png" ,M+ LALIGA TV 4
+http://127.0.0.1:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV 5" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV%205.png" ,M+ LALIGA TV 5
+http://127.0.0.1:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ LaLiga TV 6" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20LALIGA%20TV%206.png" ,M+ LALIGA TV 6
+http://127.0.0.1:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV BAR" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20BAR.png" ,LALIGA TV BAR
+http://127.0.0.1:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION.png" ,M+ LALIGA TV HYPERMOTION (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION.png" ,M+ LALIGA TV HYPERMOTION (720)
+http://127.0.0.1:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%202.png" ,M+ LALIGA TV HYPERMOTION 2 (1080)
+http://127.0.0.1:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%202.png" ,M+ LALIGA TV HYPERMOTION 2 (720)
+http://127.0.0.1:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%203.png" ,M+ LALIGA TV HYPERMOTION 3
+http://127.0.0.1:6878/ace/getstream?id=bd2f7970c17f427ae92867e2eb86696dd7900a3e
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%204.png" ,M+ LALIGA TV HYPERMOTION 4
+http://127.0.0.1:6878/ace/getstream?id=ef3a9359800bba51018fe00ac84afb8e79a7bbf2
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%205.png" ,M+ LALIGA TV HYPERMOTION 5
+http://127.0.0.1:6878/ace/getstream?id=7a6f7c3acc3689c40f2300432723c55d41222af0
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%206.png" ,M+ LALIGA TV HYPERMOTION 6
+http://127.0.0.1:6878/ace/getstream?id=5bd78125bd1e98c3f49e98910ed15e39d0b9f631
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%207.png" ,M+ LALIGA TV HYPERMOTION 7
+http://127.0.0.1:6878/ace/getstream?id=b7e43c2c3887864193578eb57079955c50070f69
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%208.png" ,M+ LALIGA TV HYPERMOTION 8
+http://127.0.0.1:6878/ace/getstream?id=11c89343be863cf2a69b3973747c629d9e79d7b8
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 9" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%209.png" ,M+ LALIGA TV HYPERMOTION 9
+http://127.0.0.1:6878/ace/getstream?id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 10" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%2010.png" ,M+ LALIGA TV HYPERMOTION 10
+http://127.0.0.1:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 11" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%2011.png" ,M+ LALIGA TV HYPERMOTION 11
+http://127.0.0.1:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
+#EXTINF:-1 group-title="Movistar" tvg-id="LaLiga TV Hypermotion 12" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/LALIGA%20TV%20HYPERMOTION%2012.png" ,M+ LALIGA TV HYPERMOTION 12
+http://127.0.0.1:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones.png" ,M+ Liga de Campeones (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones.png" ,M+ Liga de Campeones (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones.png" ,M+ Liga de Campeones (1080)
+http://127.0.0.1:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones.png" ,M+ Liga de Campeones (720)
+http://127.0.0.1:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%202.png" ,M+ Liga de Campeones 2 (1080)
+http://127.0.0.1:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%202.png" ,M+ Liga de Campeones 2 (720)
+http://127.0.0.1:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%203.png" ,M+ Liga de Campeones 3 (1080)
+http://127.0.0.1:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%203.png" ,M+ Liga de Campeones 3 (720)
+http://127.0.0.1:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%204.png" ,M+ Liga de Campeones 4
+http://127.0.0.1:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%205.png" ,M+ Liga de Campeones 5
+http://127.0.0.1:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%206.png" ,M+ Liga de Campeones 6
+http://127.0.0.1:6878/ace/getstream?id=64a9353032efa2acb093d0bb86481f20f482d47e
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%207.png" ,M+ Liga de Campeones 7
+http://127.0.0.1:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%208.png" ,M+ Liga de Campeones 8
+http://127.0.0.1:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%209.png" ,M+ Liga de Campeones 9
+http://127.0.0.1:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%2010.png" ,M+ Liga de Campeones 10
+http://127.0.0.1:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%2011.png" ,M+ Liga de Campeones 11
+http://127.0.0.1:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%2012.png" ,M+ Liga de Campeones 12
+http://127.0.0.1:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Liga%20de%20Campeones%2013.png" ,M+ Liga de Campeones 13
+http://127.0.0.1:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes.png" ,M+ Deportes (1080)
+http://127.0.0.1:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes.png" ,M+ Deportes (720)
+http://127.0.0.1:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes%202.png" ,M+ Deportes 2
+http://127.0.0.1:6878/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes%203.png" ,M+ Deportes 3
+http://127.0.0.1:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes%204.png" ,M+ Deportes 4
+http://127.0.0.1:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes%205.png" ,M+ Deportes 5
+http://127.0.0.1:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes%206.png" ,M+ Deportes 6
+http://127.0.0.1:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Deportes 7" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Deportes%207.png" ,M+ Deportes 7
+http://127.0.0.1:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Golf.png" ,M+ Golf
+http://127.0.0.1:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Golf%202.png" ,M+ Golf 2
+http://127.0.0.1:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+#EXTINF:-1 group-title="Movistar" tvg-id="M+ Ellas Vamos HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/M%2B%20Ellas%20V.png" ,M+ Ellas V
+http://127.0.0.1:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA.png" ,DAZN LALIGA (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA.png" ,DAZN LALIGA (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA.png" ,DAZN LALIGA (720)
+http://127.0.0.1:6878/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA%202.png" ,DAZN LALIGA 2 (1080 Multiaudio)
+http://127.0.0.1:6878/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA%202.png" ,DAZN LALIGA 2 (720)
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 3" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA%203.png" ,DAZN LALIGA 3
+http://127.0.0.1:6878/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 4" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA%204.png" ,DAZN LALIGA 4
+http://127.0.0.1:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN LaLiga 5" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20LALIGA%205.png" ,DAZN LALIGA 5
+http://127.0.0.1:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%201.png" ,DAZN 1 (1080)
+http://127.0.0.1:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%201.png" ,DAZN 1 (720)
+http://127.0.0.1:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%202.png" ,DAZN 2 (1080)
+http://127.0.0.1:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%202.png" ,DAZN 2 (720)
+http://127.0.0.1:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%203.png" ,DAZN 3
+http://127.0.0.1:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%204.png" ,DAZN 4
+http://127.0.0.1:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20F1.png" ,DAZN F1 (1080)
+http://127.0.0.1:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20F1.png" ,DAZN F1 (1080)
+http://127.0.0.1:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/DAZN%20F1.png" ,DAZN F1 (720)
+http://127.0.0.1:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%201.png" ,Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%201.png" ,Eurosport 1
+http://127.0.0.1:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%202.png" ,Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%202.png" ,Eurosport 2
+http://127.0.0.1:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 3" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%203.png" ,Eurosport 3
+http://127.0.0.1:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 4" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%204.png" ,Eurosport 4
+http://127.0.0.1:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 5" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%205.png" ,Eurosport 5
+http://127.0.0.1:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 6" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%206.png" ,Eurosport 6
+http://127.0.0.1:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 7" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%207.png" ,Eurosport 7
+http://127.0.0.1:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 8" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%208.png" ,Eurosport 8
+http://127.0.0.1:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 9" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Eurosport%209.png" ,Eurosport 9
+http://127.0.0.1:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+#EXTINF:-1 group-title="Abierto" tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/GOL%20PLAY.png" ,GOL PLAY
+http://127.0.0.1:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+#EXTINF:-1 group-title="Abierto" tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Teledeporte.png" ,Teledeporte
+http://127.0.0.1:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1 group-title="Abierto" tvg-id="La 1 HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/La%201.png" ,La 1
+http://127.0.0.1:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+#EXTINF:-1 group-title="Abierto" tvg-id="La 2" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/La%202.png" ,La 2
+http://127.0.0.1:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1 group-title="Abierto" tvg-id="Cuatro HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Cuatro.png" ,Cuatro
+http://127.0.0.1:6878/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+#EXTINF:-1 group-title="Abierto" tvg-id="Telecinco HD" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Telecinco.png" ,Telecinco
+http://127.0.0.1:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+#EXTINF:-1 group-title="Abierto" tvg-id="Be Mad" tvg-logo="https://raw.githubusercontent.com/McLelo/Program10_IMP/main/cnls/Be%20Mad.png" ,Be Mad
+http://127.0.0.1:6878/ace/getstream?id=5c267a00f264736c1d47c1cc3e754447ca8f770c
